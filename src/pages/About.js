@@ -22,6 +22,7 @@ export default class About extends Component {
             <div className="brief_description">
             I am a Sophmore at SUNY New paltz. I am a computer Science major, and a Business Analytics minor.
             My favorite sport is football(Soccer), and I love to play video games, and have fun.
+            Olamide is a Nigerian name.
             </div>
           </div>
         </div>
